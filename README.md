@@ -9,8 +9,8 @@
 
 ## 🔧 Technologies & Tools
 - Languages: Python, R
-- Tools: Git & GitHub, RStudio, VS Code, Pycharm
-- Currently learning: Scikit-learn, Pandas, BeautifulSoup
+- Tools: Git & GitHub, RStudio, VS Code, Pycharm, Jupyter Notebook
+- Currently learning: Scikit-learn, Pytorch, Tensorflow
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ric79&show_icons=true&theme=radical)
