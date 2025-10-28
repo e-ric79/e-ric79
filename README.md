@@ -22,7 +22,7 @@ I believe in transparent learning. These projects represent my journey from data
 - Languages: Python, R
 - Tools: Git & GitHub, RStudio, VS Code, Pycharm, Jupyter Notebook, Google Colab
 - Currently learning: Scikit-learn, Pytorch, Tensorflow
-## SKilla
+## SKills
 **Data Science & ML:**
 - Python (pandas, NumPy, scikit-learn)
 - Data cleaning, EDA, visualization (Matplotlib, Seaborn)
