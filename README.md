@@ -19,7 +19,7 @@ I'm building my machine learning skills through hands-on projects and self-direc
 I believe in transparent learning. These projects represent my journey from data analysis basics to building predictive models, with guidance from AI tools that help me understand concepts deeply rather than just copying solutions.
 
 ##  Technologies & Tools
-- Languages: Python, R
+- Languages: Python, R, java
 - Tools: Git & GitHub, RStudio, VS Code, Pycharm, Jupyter Notebook, Google Colab
 - Currently learning: Scikit-learn, Pytorch, Tensorflow
 ## SKills
@@ -37,7 +37,5 @@ Check out my repositories below showcasing my progression from exploratory data 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ric79&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ric79&layout=compact&theme=radical)
 
-<!--## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ElkanahMakori/)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
+## 📫 Let's Connect
+- LinkedIn: www.linkedin.com/in/elkanah-makori-352a51324
