@@ -38,4 +38,4 @@ Check out my repositories below showcasing my progression from exploratory data 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ric79&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/elkanah-makori-352a51324
+- LinkedIn: www.linkedin.com/in/elkanah-makori
