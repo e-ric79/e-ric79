@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Elkanah
 
-🎓 I'm a Computer Science student at Dedan Kimathi University of Technology  
-💻 I'm passionate about AI, Machine Learning, and Data Science  
-🌱 Currently learning **Python** and exploring **Machine Learning**  
-📊 Also tinkering with **R**, especially for data analysis and web scraping  
-📚 Always curious about tech, critical thinking, and philosophy  
-🚀 Fun Fact: I love cat memes and debugging at 2 AM 
+ I'm a Computer Science student at Dedan Kimathi University of Technology  
+ I'm passionate about AI, Machine Learning, and Data Science  
+ Currently learning **Python** and exploring **Machine Learning**  
+ Also tinkering with **R**, especially for data analysis and web scraping  
+ Always curious about tech, critical thinking, and philosophy  
 
 ## Learning Journey
 
@@ -33,9 +32,6 @@ I believe in transparent learning. These projects represent my journey from data
 
 Check out my repositories below showcasing my progression from exploratory data analysis to machine learning model development.
 *Always open to feedback and collaboration!*
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=e-ric79&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ric79&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/elkanah-makori
