@@ -16,7 +16,6 @@ I enjoy building machine learning systems that solve practical problems—from N
 
 | Project | Description | Stack |
 |---|---|---|
-| **[CV Optimizer KE](https://github.com/e-ric79/AI-POWERED-CV-OPTIMIZER)** | Production SaaS for Kenyan job seekers — AI-powered CV analysis with M-Pesa payments | Next.js, Supabase, Groq AI, M-Pesa API |
 | **[Bear Image Classifier](https://github.com/e-ric79/bear-image-classifier)** | ResNet18 fine-tuned on custom dataset, deployed as a live Streamlit app | Python, fast.ai, PyTorch, Streamlit |
 | **[Resume Screening System](https://github.com/e-ric79/resume-screening)** | NLP pipeline that ranks resumes by skill match using TF-IDF vectorisation | Python, Scikit-learn, NLTK, Streamlit |
 | **[Sales Forecasting](https://github.com/e-ric79/sales-forecasting)** | Time-series sales forecasting model with trend and seasonality decomposition | Python, Prophet, Pandas, Matplotlib |
@@ -53,8 +52,17 @@ I enjoy building machine learning systems that solve practical problems—from N
 
 ## 📌 Currently
 
-- 🎓 3rd year CS @ DeKUT — specialising in AI/ML
-- 🔭 Building NLP projects with a focus on Swahili and African language models
+```text
+✅ Machine Learning
+✅ Deep Learning
+✅ NLP
+🟡 FastAPI
+🟡 Docker
+🟡 Kubernetes
+🟡 CI/CD
+⬜ MLflow
+⬜ Monitoring
+```
 - 🌍 Open to **ML/AI internships** — Kenya or Remote
 - ✍️ Documenting my ML journey publicly on [LinkedIn](https://linkedin.com/in/elkanah-makori)
 
