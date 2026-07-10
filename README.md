@@ -1,8 +1,14 @@
 # Hi, I'm Elkanah Makori 👋
 
-**ML Engineer & Full-Stack Developer · Nyeri, Kenya**
+**Computer Science Student | AI & Machine Learning**
 
-I build end-to-end machine learning products and full-stack web apps, with a focus on African markets and real-world impact. Third-year Computer Science student at Dedan Kimathi University of Technology (DeKUT), specialising in AI/ML.
+ Third-year Computer Science student at Dedan Kimathi University of Technology (DeKUT), specialising in AI/ML.
+
+---
+
+## About Me
+
+I enjoy building machine learning systems that solve practical problems—from NLP applications and computer vision to predictive analytics. My current focus is transitioning from model development to production-ready ML systems by learning backend engineering, containerization, and MLOps.
 
 ---
 
@@ -28,12 +34,35 @@ I build end-to-end machine learning products and full-stack web apps, with a foc
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=e-ric79&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-ric79&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=e-ric79&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
 ## 📌 Currently
 
 - 🎓 3rd year CS @ DeKUT — specialising in AI/ML
 - 🔭 Building NLP projects with a focus on Swahili and African language models
 - 🌍 Open to **ML/AI internships** — Kenya or Remote
 - ✍️ Documenting my ML journey publicly on [LinkedIn](https://linkedin.com/in/elkanah-makori)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=e-ric79&style=for-the-badge)
 
 ---
 
